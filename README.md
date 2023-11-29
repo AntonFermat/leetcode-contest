@@ -48,4 +48,24 @@ LeetCode Contests
         </ul>
     </td>
   </tr>
+  <tr>
+    <td>2023.11.19</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-372/">Weekly Contest 372</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/make-three-strings-equal/">2937. Make Three Strings Equal</a></li>
+            <li><a href="https://leetcode.com/problems/separate-black-and-white-balls/">2938. Separate Black and White Balls</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-xor-product/">2939. Maximum Xor Product</a></li>
+            <li><a href="https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/">2940. Find Building Where Alice and Bob Can Meet</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly372/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly372/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly372/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly372/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
 </table>
