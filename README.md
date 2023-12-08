@@ -87,4 +87,24 @@ LeetCode Contests
         </ul>
     </td>
   </tr>
+  <tr>
+    <td>2023.11.12</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-371/">Weekly Contest 371</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/maximum-strong-pair-xor-i/">2932. Maximum Strong Pair XOR I</a></li>
+            <li><a href="https://leetcode.com/problems/high-access-employees/">2933. High-Access Employees</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/">2934. Minimum Operations to Maximize Last Elements in Arrays</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-strong-pair-xor-ii/">2935. Maximum Strong Pair XOR II</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution3.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution4.java">Hard (8)</a></li>
+        </ul>
+    </td>
+  </tr>
 </table>
