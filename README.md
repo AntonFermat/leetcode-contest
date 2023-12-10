@@ -9,6 +9,26 @@ LeetCode Contests
     <td>Solutions</td>
   </tr>
   <tr>
+    <td>2023.12.10</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-375/">Weekly Contest 375</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/count-tested-devices-after-test-operations/">10031. Count Tested Devices After Test Operations</a></li>
+            <li><a href="https://leetcode.com/problems/double-modular-exponentiation/">10032. Double Modular Exponentiation</a></li>
+            <li><a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/">100137. Count Subarrays Where Max Element Appears at Least K Times</a></li>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-good-partitions/">10034. Count the Number of Good Partitions</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly375/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly375/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly375/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly375/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
     <td>2023.12.03</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-374/">Weekly Contest 374</a></td>
     <td>
