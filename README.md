@@ -29,6 +29,26 @@ LeetCode Contests
     </td>
   </tr>
   <tr>
+    <td>2023.12.09</td>
+    <td><a href="https://leetcode.com/contest/biweekly-contest-119/">Biweekly Contest 119</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/find-common-elements-between-two-arrays/">2956. Find Common Elements Between Two Arrays</a></li>
+            <li><a href="https://leetcode.com/problems/remove-adjacent-almost-equal-characters/">2957. Remove Adjacent Almost-Equal Characters</a></li>
+            <li><a href="https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/">2958. Length of Longest Subarray With at Most K Frequency</a></li>
+            <li><a href="https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/">2959. Number of Possible Sets of Closing Branches</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly119/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly119/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly119/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly119/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
     <td>2023.12.03</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-374/">Weekly Contest 374</a></td>
     <td>
