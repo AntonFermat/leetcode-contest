@@ -10,13 +10,33 @@ LeetCode Contests
   </tr>
   <tr>
     <td>2023.12.10</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-376/">Weekly Contest 376</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/find-missing-and-repeated-values/">2965. Find Missing and Repeated Values</a></li>
+            <li><a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/">2966. Divide Array Into Arrays With Max Difference</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/">2967. Minimum Cost to Make Array Equalindromic</a></li>
+            <li><a href="https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/solutions/">2968. Apply Operations to Maximize Frequency Score</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly376/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly376/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly376/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly376/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.12.10</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-375/">Weekly Contest 375</a></td>
     <td>
         <ul>
-            <li><a href="https://leetcode.com/problems/count-tested-devices-after-test-operations/">10031. Count Tested Devices After Test Operations</a></li>
-            <li><a href="https://leetcode.com/problems/double-modular-exponentiation/">10032. Double Modular Exponentiation</a></li>
-            <li><a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/">100137. Count Subarrays Where Max Element Appears at Least K Times</a></li>
-            <li><a href="https://leetcode.com/problems/count-the-number-of-good-partitions/">10034. Count the Number of Good Partitions</a></li>
+            <li><a href="https://leetcode.com/problems/count-tested-devices-after-test-operations/">2960. Count Tested Devices After Test Operations</a></li>
+            <li><a href="https://leetcode.com/problems/double-modular-exponentiation/">2961. Double Modular Exponentiation</a></li>
+            <li><a href="https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/">2962. Count Subarrays Where Max Element Appears at Least K Times</a></li>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-good-partitions/">2963. Count the Number of Good Partitions</a></li>
         </ul>
     </td>
     <td>
