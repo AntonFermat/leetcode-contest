@@ -76,7 +76,7 @@ LeetCode Contests
             <li><a href="https://leetcode.com/problems/find-the-peaks/">2951. Find the Peaks</a></li>
             <li><a href="https://leetcode.com/problems/minimum-number-of-coins-to-be-added/">2952. Minimum Number of Coins to be Added</a></li>
             <li><a href="https://leetcode.com/problems/count-complete-substrings/">2953. Count Complete Substrings</a></li>
-            <li><a href="https://leetcode.com/problems/count-the-number-of-infection-sequences/">2954. Count the Number of Infection Sequences</a></li>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-infection-sequences/"><b>(!Unresolved) 2954. Count the Number of Infection Sequences</b></a></li>
         </ul>
     </td>
     <td>
@@ -164,6 +164,26 @@ LeetCode Contests
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution2.java">Medium (4)</a></li>
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution3.java">Medium (4)</a></li>
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly371/Solution4.java">Hard (8)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.11.05</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-370/">Weekly Contest 371</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/find-champion-i/">2923. Find Champion I</a></li>
+            <li><a href="https://leetcode.com/problems/find-champion-ii/">2924. Find Champion II</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/">2925. Maximum Score After Applying Operations on a Tree</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-balanced-subsequence-sum/"><b>(!Unresolved) 2926. Maximum Balanced Subsequence Sum</b></a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution4.java">Hard (6)</a></li>
         </ul>
     </td>
   </tr>
