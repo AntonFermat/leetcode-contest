@@ -189,7 +189,7 @@ LeetCode Contests
   </tr>
   <tr>
     <td>2023.11.05</td>
-    <td><a href="https://leetcode.com/contest/weekly-contest-370/">Weekly Contest 371</a></td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-370/">Weekly Contest 370</a></td>
     <td>
         <ul>
             <li><a href="https://leetcode.com/problems/find-champion-i/">2923. Find Champion I</a></li>
@@ -204,6 +204,26 @@ LeetCode Contests
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution2.java">Medium (4)</a></li>
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution3.java">Medium (5)</a></li>
             <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly370/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.10.29</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-369/">Weekly Contest 369</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/find-the-k-or-of-an-array/">2917. Find the K-or of an Array</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/">2918. Minimum Equal Sum of Two Arrays After Replacing Zeros</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/">2919. Minimum Increment Operations to Make Array Beautiful</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/">2920. Maximum Points After Collecting Coins From All Nodes</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly369/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly369/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly369/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly369/Solution4.java">Hard (6)</a></li>
         </ul>
     </td>
   </tr>
