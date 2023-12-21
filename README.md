@@ -168,6 +168,26 @@ LeetCode Contests
     </td>
   </tr>
   <tr>
+    <td>2023.11.11</td>
+    <td><a href="https://leetcode.com/contest/biweekly-contest-117/">Biweekly Contest 117</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/distribute-candies-among-children-i/">2928. Distribute Candies Among Children I</a></li>
+            <li><a href="https://leetcode.com/problems/distribute-candies-among-children-ii/">2929. Distribute Candies Among Children II</a></li>
+            <li><a href="https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/"><b>(!Unresolved) 2930. Number of Strings Which Can Be Rearranged to Contain Substring</b></a></li>
+            <li><a href="https://leetcode.com/problems/maximum-spending-after-buying-items/">2931. Maximum Spending After Buying Items</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly117/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly117/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly117/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly117/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
     <td>2023.11.05</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-370/">Weekly Contest 371</a></td>
     <td>
