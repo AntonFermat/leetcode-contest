@@ -9,7 +9,27 @@ LeetCode Contests
     <td>Solutions</td>
   </tr>
   <tr>
-    <td>2023.12.10</td>
+    <td>2023.12.23</td>
+    <td><a href="https://leetcode.com/contest/biweekly-contest-120/">Biweekly Contest 120</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/">2970. Count the Number of Incremovable Subarrays I</a></li>
+            <li><a href="https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/">2971. Find Polygon With the Largest Perimeter</a></li>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/">2972. Count the Number of Incremovable Subarrays II</a></li>
+            <li><a href="https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/">2973. Find Number of Coins to Place in Tree Nodes</a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly120/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly120/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly120/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly120/Solution4.java">Hard (6)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.12.17</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-376/">Weekly Contest 376</a></td>
     <td>
         <ul>
