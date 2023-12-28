@@ -23,4 +23,9 @@ public class MathA {
     private static long ap(long l, long r, long n) {
         return (l + r) * n / 2;
     }
+
+
+    private int pow(int a, int b, int mod) {
+        return java.math.BigInteger.valueOf(a).modPow(java.math.BigInteger.valueOf(b), java.math.BigInteger.valueOf(mod)).intValue();
+    }
 }
