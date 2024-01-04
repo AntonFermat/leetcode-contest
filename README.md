@@ -10,6 +10,26 @@ LeetCode Contests
   </tr>
   <tr>
     <td>2023.12.17</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-378/">Weekly Contest 378</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/">2980. Check if Bitwise OR Has Trailing Zeros</a></li>
+            <li><a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/">2981. Find Longest Special Substring That Occurs Thrice I</a></li>
+            <li><a href="https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/">2982. Find Longest Special Substring That Occurs Thrice II</a></li>
+            <li><a href="https://leetcode.com/problems/palindrome-rearrangement-queries/"><b>(!Unresolved) 2983. Palindrome Rearrangement Queries</b></a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly378/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly378/Solution2_3.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly378/Solution2_3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly378/Solution4.java">Hard (7)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2023.12.17</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-377/">Weekly Contest 377</a></td>
     <td>
         <ul>
