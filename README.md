@@ -9,7 +9,27 @@ LeetCode Contests
     <td>Solutions</td>
   </tr>
   <tr>
-    <td>2023.12.23</td>
+    <td>2024.01.07</td>
+    <td><a href="https://leetcode.com/contest/weekly-contest-379/">Weekly Contest 379</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/">10035. Maximum Area of Longest Diagonal Rectangle</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-moves-to-capture-the-queen/">10036. Minimum Moves to Capture The Queen</a></li>
+            <li><a href="https://leetcode.com/problems/maximum-size-of-a-set-after-removals/">10037. Maximum Size of a Set After Removals</a></li>
+            <li><a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/"><b>(!Unresolved)10038. Maximize the Number of Partitions After Operations</b></a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly379/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly379/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly379/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/weekly379/Solution4.java">Hard (7)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>2024.01.06</td>
     <td><a href="https://leetcode.com/contest/biweekly-contest-121/">Biweekly Contest 121</a></td>
     <td>
         <ul>
