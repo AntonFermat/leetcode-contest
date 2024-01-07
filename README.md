@@ -9,6 +9,26 @@ LeetCode Contests
     <td>Solutions</td>
   </tr>
   <tr>
+    <td>2023.12.23</td>
+    <td><a href="https://leetcode.com/contest/biweekly-contest-121/">Biweekly Contest 121</a></td>
+    <td>
+        <ul>
+            <li><a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/">10031. Smallest Missing Integer Greater Than Sequential Prefix Sum</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/">10032. Minimum Number of Operations to Make Array XOR Equal to K</a></li>
+            <li><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/">10033. Minimum Number of Operations to Make X and Y Equal</a></li>
+            <li><a href="https://leetcode.com/problems/count-the-number-of-powerful-integers/"><b>(!Unresolved)10034. Count the Number of Powerful Integers</b></a></li>
+        </ul>
+    </td>
+    <td>
+        <ul>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly121/Solution1.java">Easy (3)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly121/Solution2.java">Medium (4)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly121/Solution3.java">Medium (5)</a></li>
+            <li><a href="src/main/java/com/github/antonfermat/leetcode/contest/biweekly121/Solution4.java">Hard (7)</a></li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
     <td>2023.12.17</td>
     <td><a href="https://leetcode.com/contest/weekly-contest-378/">Weekly Contest 378</a></td>
     <td>
